@@ -21,4 +21,7 @@ An IoT-based smart agriculture system using ESP32, Rain Sensor, Soil Moisture Se
 - Buzzer
 
 ## Developed By
-Pandiri Sivaramakrishna
+PANDIRI SIVARAMAKRISHNA
+SHIRISHA KS
+AMRUTHA KR
+KALYANI AN
